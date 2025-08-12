@@ -1,11 +1,27 @@
-# 🤖 BOT-TELEGRAM
+# 🚀 BOT-TELEGRAM
 
 Este projeto é um bot para o Telegram desenvolvido com o objetivo de aprendizado e criação de bots de forma simples e rápida, utilizando a biblioteca python-telegram-bot.
 
-## 🚀 Tecnologias Utilizadas
-### Back-end
-- Python
-    - python-telegram-bot
+---
+
+## ✅ Requisitos
+
+Antes de executar o projeto, certifique-se de ter os seguintes requisitos instalados:
+
+- Python 3.7 ou superior
+- Biblioteca python-telegram-bot
+- Editor de texto ou IDE de sua preferência
+
+---
+## 🛠 Tecnologias Utilizadas
+
+O projeto foi construído com as seguintes tecnologias:
+
+- 🔙 Back-end
+    - Python
+        - python-telegram-bot
+
+
 
 ## ⚙️ Como Executar o Projeto
 
