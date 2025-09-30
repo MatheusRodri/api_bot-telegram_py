@@ -8,7 +8,7 @@
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Como Rodar](#como-rodar)
   - [Pré-requisitos](#pré-requisitos)
-- [Como Usar](#como-usar)
+- [Como Rodar](#como-rodar)
 - [Como Contribuir](#como-contribuir)
 
 
